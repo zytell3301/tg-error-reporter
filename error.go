@@ -1,4 +1,4 @@
-package tg_error_reporter
+package ErrorReporter
 
 type Error struct {
 	ServiceId  string
