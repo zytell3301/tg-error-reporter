@@ -1,7 +1,7 @@
 package ErrorReporter
 
 type Error struct {
-	ServiceId  string
+	ServiceGroupId  string
 	InstanceId string
 	Message    string
 }
